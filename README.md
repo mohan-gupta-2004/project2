@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system
-created by mohan gupta
+created by Mohan Gupta.
